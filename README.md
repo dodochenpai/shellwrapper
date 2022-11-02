@@ -1,5 +1,5 @@
 # shellwrapper
-A generic reverse shell listening server that allows uploading and downloading of files over the shell connection.
+A generic reverse shell listening server that allows uploading and downloading of files over the shell connection. Requires a cmd.exe reverse shell, as well as powershell on the target computer.
 
 # Usage
 Start the wrapper on a port using
